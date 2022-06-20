@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
-<link rel="stylesheet" type="text/css" href="default.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>assets/default.css" media="screen"/>
 <title>The Hobbit</title>
 </head>
 <body>

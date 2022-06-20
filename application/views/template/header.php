@@ -2,11 +2,4 @@
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
-<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>assets/default.css" media="screen"/>
-<title>The Hobbit</title>
-</head>
-<body>
-<div class="container">
-  <div class="gfx"><span></span></div>
-  <div class="top">
-    <div class="navigation"> <a href="#" id="selected">home</a> <a href="#">the journey</a> <a href="#">characters</a> <a href="#">image gallery</a> <a href="#">history</a> </div>
+<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>assets/css/default.css" media="screen"/>

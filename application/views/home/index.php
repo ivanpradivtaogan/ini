@@ -1,7 +1,13 @@
 
+<title>The Hobbit</title>
+</head>
+<div class="container">
+  <div class="gfx"><span></span></div>
+  <div class="top">
+    <div class="navigation"> <a href="#" id="selected">home</a> <a href="#">the journey</a> <a href="#">characters</a> <a href="#">image gallery</a> <a href="#">history</a> </div>
     <div class="pattern"><span></span></div>
     <div class="header">
-      <h1>The Hobbit</h1>
+    <h1>The Hobbit</h1>
       <p>Adventures of Bilbo Baggins</p>
     </div>
     <div class="pattern"><span></span></div>
@@ -46,7 +52,7 @@
         <p>Aliquam risus justo, mollis in, laoreet a, <a href="#">consectetuer nec</a> risus. Nunc blandit sodales lacus. Nam luctus semper mi. Sed sodales nisl sit amet augue. Donec ultrices, augue ullamcorper posuere laoreet, turpis massa tristique justo.</p>
       </div>
     </div>
-    <div class="divider"><span></span></div>
+   <div class="divider"><span></span></div>
     <div class="item">
       <div class="title">Ultrices</div>
       <div class="metadata">May 29, 2006 by Feugiat</div>
@@ -63,4 +69,5 @@
       </div>
     </div>
   </div>
+ 
   
